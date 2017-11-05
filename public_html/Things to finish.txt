@@ -1,0 +1,2 @@
+change restart to back in how to and instructions page.
+add mute button in each states.
